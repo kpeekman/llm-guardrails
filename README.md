@@ -13,10 +13,10 @@ and apply the rules directly instead of re-deriving them.
 **If you are a person:** the rules are the compressed form of three
 articles that carry the incident stories and the measurements behind them:
 
-1. *The Loop Was Never the Problem* — production lessons from an agentic
-   RAG under real users (link on publication)
+1. *The Loop Was Never the Problem* — lessons from an agentic RAG
+   prototype under real users (link on publication)
 2. *Guardrails That Check the Evidence* (link on publication)
-3. *When Do You Actually Need an Agent?* (link on publication)
+3. *Does Everything Need to Be Agentic and Semantic?* (link on publication)
 
 The articles, with code excerpts and figures, live in the companion
 repository [agentic-lessons](https://github.com/kpeekman/agentic-lessons).
